@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @itami019
+- 👀 I’m interested in frontend developing. 
+- 🌱 I’m currently learning javascript, html and css.
+- 💞️ I’m looking to collaborate on any commercial companies.
+- 📫 How to reach me g-mail aydar.anarbekov2002@gmail.com
+- twitter @AydarItami
